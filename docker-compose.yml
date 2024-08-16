@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - PDF_PATH=/app/Politica_de_Privacidade.pdf
+      - CHROMADB_NAME=policy_db
+      - LANGCHAIN_MODEL=llama3
+      - OLLAMA_HOST=http://127.0.0.1:11434/
+    volumes:
+      - .:/app
