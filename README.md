@@ -62,7 +62,4 @@ Para parar os contêineres, use:
 **Contribuição**
 Este projeto foi desenvolvido como parte de um teste técnico. No momento, não aceitamos contribuições externas.
 
-**Licença**
-Este projeto é de código fechado, desenvolvido exclusivamente para o desafio técnico da Starsoft.
-
 **Desenvolvido por Lincoln Bonifácio Souza**
