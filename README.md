@@ -1,10 +1,8 @@
-# Starsoft RAG Challenge
-
 **Desafio realizado por:** Lincoln Bonifácio Souza
 
 ## Descrição
 
-Este projeto é uma solução para o desafio técnico de Recuperação Aumentada de Conhecimento (RAG) da Starsoft. A aplicação desenvolvida processa e armazena informações extraídas de um documento PDF (Política de Privacidade), utilizando diversas tecnologias de inteligência artificial e armazenamento de vetores.
+Este projeto é uma solução de Recuperação Aumentada de Conhecimento (RAG). A aplicação desenvolvida processa e armazena informações extraídas de um documento PDF (Política de Privacidade), utilizando diversas tecnologias de inteligência artificial e armazenamento de vetores.
 
 ## Tecnologias Utilizadas
 
